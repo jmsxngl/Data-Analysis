@@ -30,8 +30,10 @@ This Projects, we only focus on products analysis but several columns from anoth
 1. Find most supplier company, based on their orders for better handling in future orders
 1. Find most customer country, to manage sales and best shipper company for shiping process 
 1. Find most supplier country, to manage sales and best shipper company for shiping process
+<br>
 
-
+`Tableau Visualization :`<br>
+![northwindTableau](https://user-images.githubusercontent.com/94034809/161478417-9e7991e6-5b0f-42e6-ad21-634c824af85e.png)
 
 ## **`Conclusion :`**
 1. **Camembert Pierrot** is the most ordered products with total 1577.<br>
@@ -48,7 +50,7 @@ From data result, we need to maintain good relations with customers who are in d
 1. **United States** is the highest supplier of products, followed by United Kingdom at second place.<br>
 From this data, we can improve shipping performance by selecting more shipper companies that we used to. It would be better if we communicate and cooperation with the sippher company to ensure that we have reserves in case of problems in terms of shipping method sea, air and land freight.
 
-`Alternative Visualization :`<br>
+**Tableau :**<br>
 https://public.tableau.com/views/ProjectModule2_16490125235130/NorthwindProducts?:language=en-US&:display_count=n&:origin=viz_share_link
 
 With this Analyzing, i hope that audience understand what the data tells and to find the insight. and i feel sorry if theres some errors in data analyzing.<br>
