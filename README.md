@@ -1,4 +1,4 @@
-  ## **`Capstone Project Module 2 - Northwind (Products)`**
+  ## **`Purwadhika Capstone Project Data Analysis - Northwind (Products)`**
 
 ![logo](https://user-images.githubusercontent.com/94034809/161473874-c3687611-7e39-4b47-bcd8-fde68d98ee73.png)
 ## **Database Information**<br>
